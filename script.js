@@ -1,2 +1,8 @@
-alert("Этот код выполнен из внешнего файла!");
-console.log("Сообщение в консоли");
+let Name = "Максим";      
+let birthYear = 2006;     
+let isStudent = true;     
+
+
+console.log("Имя:", Name);
+console.log("Год рождения:", birthYear);
+console.log("Студент:", isStudent);
